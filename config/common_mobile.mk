@@ -69,3 +69,12 @@ PRODUCT_PACKAGES += \
 # Media
 PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
     media.recorder.show_manufacturer_and_model=true
+
+# google-sans family
+PRODUCT_PACKAGES += \
+    GoogleSans-BoldItalic.ttf \
+    GoogleSans-Bold.ttf \
+    GoogleSans-Italic.ttf \
+    GoogleSans-MediumItalic.ttf \
+    GoogleSans-Medium.ttf \
+    GoogleSans-Regular.ttf
